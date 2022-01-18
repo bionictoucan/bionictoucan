@@ -9,9 +9,9 @@ Important repositories:
 This uses a fully-convolutional autoencoder to learn atmospheric seeing corrections based on a model derived from the statistics of turbulent media applied to data with minimal atmospheric distortions.
 - [crispy](https://github.com/bionictoucan/crispy/) 🌞 🔭 : A Python package for working with imaging spectropolarimetric solar data in `fits` or `zarr` format.
 Designed originally for the Swedish Solar Telescope's CRisp Imaging SpectroPolarimeter (SST/CRISP) instrument, this package will work with any imaging spectropolarimetric data of the Sun.
-- [HYPerspectral Image Augmentation (Hypia)](https://github.com/bionictoucan/hypia/) 🖼️ 🤖: A Python package to apply data augmentation to hyperspectral images when training deep neural networks.
+- [HYPerspectral Image Augmentation (Hypia)](https://github.com/bionictoucan/hypia/) 🖼️: A Python package to apply data augmentation to hyperspectral images when training deep neural networks.
 This builds upon [torchvision's transforms](https://pytorch.org/vision/stable/transforms.html) but makes it so that the channels dimension does not have to be 3.
-- [SoLar Image Classification using convolutional neural networks (Slic)](https://github.com/bionictoucan/slic/) 🌅 : A deep CNN trained to classify H&alpha; images from Hinode's Solar Optical Telescope (SOT).
+- [SoLar Image Classification using convolutional neural networks (Slic)](https://github.com/bionictoucan/slic/) 🌅 🤖 : A deep CNN trained to classify H&alpha; images from Hinode's Solar Optical Telescope (SOT).
 - [RADYNVERSION](https://github.com/bionictoucan/RADYNVERSION/) 📈 : An application of an invertible neural network (INN) trained on simulations of solar flares to estimate the parameters of the flaring atmosphere from a set of observations.
 
 Teaching Materials:
