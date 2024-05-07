@@ -1,9 +1,13 @@
-(he/him) Solar physics PhD turned medicines development postdoc with an interest in how machine learning can accelerate and benefit data processing pipelines.
+(he/him) Solar physics PhD turned medicines manufacturing postdoc with an interest in how machine learning can accelerate and benefit data processing pipelines.
 I am also interested in science and data science education and enjoy producing teaching materials.
 
 N.B. Any deep learning mentioned below unless explicitly statred otherwise is construced using the [PyTorch](https://pytorch.org/) framework.
 
-Important repositories:
+Medicines manufacturing repositories:
+- [SEssile Drop Video ANalysis (SeDVAn)](https://github.com/strath-cmac/sessile-drop) 💧📹: an end-to-end framework for the analysis of videos from sessile drop experiments.
+This combines image segmentation, sequence-to-sequence learning and mechanistic modellling to characterise the absorption and swelling processes which take place during tablet disintegration.
+
+Solar physics repositories:
 
 - [The Seeing AUtoeNcoder (Shaun)](https://github.com/bionictoucan/shaun) 🌤️ :eyes: : A method for correcting the effects of the Earth's atmosphere on narrowband optical solar flare observations.
 This uses a fully-convolutional autoencoder to learn atmospheric seeing corrections based on a model derived from the statistics of turbulent media applied to data with minimal atmospheric distortions.
